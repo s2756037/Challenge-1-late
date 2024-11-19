@@ -1,5 +1,5 @@
 # Challenge-1-late
-## This repository includes my script for challenge 1 along with a markdown. Due to the circumstances surrounding challenge 1, this is based off challenge 1 that is located on the Coding Club website since at the time of completeing this I did not have access to the github page.
+## This repository includes my script for challenge 1 along with a markdown. Due to the circumstances surrounding challenge 1, this is based off challenge 1 that is located on the Coding Club website since at the time of completeing this I did not have access to the github page. I also only did part 1 and 2 of challenge 1 since I believed that the class had most likely not gotten to what was being done in parts 3 and 4.
 
 ### Challenge 1 of Coding Club's <a href="https://ourcodingclub.github.io/course/" target="_blank"> *Data Science for Ecologists and Environmental Scientists* </a> course
 
