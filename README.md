@@ -37,21 +37,22 @@ Here is a detailed list of the tasks you should achieve within this challenge. R
 
 ### 1. Data manipulation
 Clean the squirrel dataset for the last decade, so it’s ready to analyse. Specifically, you should:
-*Keep only observations for the years 2008 to 2017 (using the Start.date.year column and renaming it to year)
-*Remove the observations that are not at the species level (i.e. we don’t know whether they are grey or red squirrels)
-*Create a species column that will have Red and Grey as factor levels
-*We will assume that the observations that have NA as count are observations of one squirrel; replace them with the value 1.
+Keep only observations for the years 2008 to 2017 (using the Start.date.year column and renaming it to year)
+Remove the observations that are not at the species level (i.e. we don’t know whether they are grey or red squirrels)
+Create a species column that will have Red and Grey as factor levels
+We will assume that the observations that have NA as count are observations of one squirrel; replace them with the value 1.
 
 Be prepared to answer the question: To the nearest thousand, how large is your cleaned dataset?
 
 ### 2. Temporal trends
 Determine if there is a temporal trend in the number of observations for red and grey squirrels (2008-2017). Specifically, you should:
-*Summarise the number of observations per species and per year. (That means a total number of red vs grey squirrels for each year.) A more complex analysis would also account for spatial autocorrelation and other factors, but as a preliminary analysis you are only asked to consider the total numbers at the national scale.
-*Plot the data and run one linear model to test the question Have squirrel populations increased or decreased over time, and is the trend the same for red and grey squirrels?
+Summarise the number of observations per species and per year. (That means a total number of red vs grey squirrels for each year.) A more complex analysis would also account for spatial autocorrelation and other factors, but as a preliminary analysis you are only asked to consider the total numbers at the national scale.
+Plot the data and run one linear model to test the question Have squirrel populations increased or decreased over time, and is the trend the same for red and grey squirrels?
+
 Be prepared to answer the questions:
-*1. Which species showed the strongest change over time?
-*2. What were your predictor variable(s) and their data type in the model?
-*3. What is the adjusted R-squared of the regression?
-*4. Considering the nature of our response variable, what modelling approach would be the most appropriate? (Don’t worry if you only ran a linear regression! It’s a justifiable approach for a preliminary analysis, and for such large numbers the results will be similar.)
+1. Which species showed the strongest change over time?
+2. What were your predictor variable(s) and their data type in the model?
+3. What is the adjusted R-squared of the regression?
+4. Considering the nature of our response variable, what modelling approach would be the most appropriate? (Don’t worry if you only ran a linear regression! It’s a justifiable approach for a preliminary analysis, and for such large numbers the results will be similar.)
 
 Think about the following: what could be the reasons for this trend? Is it ecologically meaningful? Are there any biases in the data to be aware of?
