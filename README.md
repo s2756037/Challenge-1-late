@@ -1,6 +1,8 @@
 # Challenge-1-late
 ## This repository includes my script for challenge 1 along with a markdown. Due to the circumstances surrounding challenge 1, this is based off challenge 1 that is located on the Coding Club website since at the time of completeing this I did not have access to the github page. I also only did part 1 and 2 of challenge 1 since I believed that the class had most likely not gotten to what was being done in parts 3 and 4.
 
+## Here is the link to Challenge 1 on Coding Club https://ourcodingclub.github.io/course/stats-scratch-challenge/index.html?
+
 ### Challenge 1 of Coding Club's <a href="https://ourcodingclub.github.io/course/" target="_blank"> *Data Science for Ecologists and Environmental Scientists* </a> course
 
 This repository contains the datasets you will need to complete <a href="https://ourcodingclub.github.io/course/stats-scratch-challenge/index.html?" target="_blank">Challenge 1</a>. This challenge is associated with the <a href="https://ourcodingclub.github.io/course/stats-scratch/index.html" target="_blank">Stats from Scratch</a> stream of the course. You can download this zipped folder to your computer (green button in top right corner), or fork this repository if you have a GitHub account. 
